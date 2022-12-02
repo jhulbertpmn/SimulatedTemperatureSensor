@@ -22,5 +22,3 @@ jobs:
         tags: 'iottest'
         platforms: linux/arm/v7
         push: true
-      env:
-        context: ./controller 
